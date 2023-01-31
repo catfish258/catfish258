@@ -12,7 +12,7 @@
 
 ### 🛠 Languages
 
-![skills](https://skillicons.dev/icons?i=python,c,go,cpp,html,js,nodejs,,java,vue)
+![skills](https://skillicons.dev/icons?i=python,c,go,cpp,html,js,nodejs,java,vue)
 
 
 
