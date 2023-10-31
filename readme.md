@@ -3,9 +3,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### info
-- 🦊  第二人格赛博具象化
-- ⚡  小玩具存放处
-- 🎸  blues rock lover
 
 
 </br>
